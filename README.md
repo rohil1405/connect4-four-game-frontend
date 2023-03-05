@@ -1,4 +1,5 @@
-# connect4-four-game-frontend
+# connect4-four-game
+
 A javascript grit based game
  
 Built With:
