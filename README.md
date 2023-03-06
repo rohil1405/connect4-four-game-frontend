@@ -31,18 +31,19 @@ Rules:
 
 WE GOING:
 
-basic html:- td,tr,div
+basic html:- 
+- td,tr,div
 basic css
 javascript:-
-        document.querySelector
-        arrow functions
-        for loops
-        addEventListener
+- document.querySelector
+- arrow functions
+- for loops
+- addEventListener
         
 Future Improvements:
 
 I want to:
-  • Keep track and display each player's wins.
-  • Add the ability to store a game to play later, using Firebase, local storage, or similar.
-  • Add the ability to play live with another person remotely, using Firebase or similar.
+- Keep track and display each player's wins.
+- Add the ability to store a game to play later, using Firebase, local storage, or similar.
+- Add the ability to play live with another person remotely, using Firebase or similar.
 
